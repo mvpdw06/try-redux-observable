@@ -1,7 +1,7 @@
 {
-  "name": "react-redux-obserable",
+  "name": "try-redux-observable",
   "version": "1.0.0",
-  "description": "Try react-redux-obserable.",
+  "description": "Try redux-observable with React app.",
   "main": "index.js",
   "scripts": {
     "dev": "babel-node devServer.js",
